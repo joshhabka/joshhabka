@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://read.cv/astrojosh" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Josh+Universe&size=square" alt="Josh Habka">
-      </a>
-    </td>
+  <a href="https://keyoxide.org/4615B706EA9B6F8203DAABAA62A69BCE5BEE3D12" target="_blank">
+    <img src="https://public-resources.joshuniverse.com/3a3a8637-2156-4f26-ba97-b4f4c21b5cb1(1).png" alt="Keyoxide - Josh Universe" width="200" height="200">
+  </a>
+</td>
     <td align="center">
       <a href="https://www.youtube.com/@joshtospace" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%joshtospace&subtitle=@joshtospace&size=square" alt="joshhabka">
