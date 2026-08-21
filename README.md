@@ -15,7 +15,7 @@
   <tr>
     <td align="center">
   <a href="https://keyoxide.org/4615B706EA9B6F8203DAABAA62A69BCE5BEE3D12" target="_blank">
-    <img src="https://public-resources.joshuniverse.com/3a3a8637-2156-4f26-ba97-b4f4c21b5cb1(1).png" alt="Keyoxide - Josh Universe" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/joshuniverse/joshuniverse/refs/heads/main/resources/keyoxide.png" alt="Keyoxide - Josh Universe" width="200" height="200">
   </a>
 </td>
     <td align="center">
